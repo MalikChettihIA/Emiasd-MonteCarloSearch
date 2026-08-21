@@ -1,4 +1,8 @@
-# Emiasd - Monte Carlo Search
+# 🎲 Emiasd - Monte Carlo Search
+
+![EMIASD Dauphine](https://img.shields.io/badge/-EMIASD%20Dauphine-000000?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![MCTS](https://img.shields.io/badge/-Monte%20Carlo%20Tree%20Search-orange?style=flat) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-blue?style=flat) ![UCB](https://img.shields.io/badge/-UCB%2FBandits-blue?style=flat)
+
+---
 
 Ce dépôt regroupe mon travail pour le cours **Monte Carlo Search** du **Master Exécutif EMIASD (Intelligence Artificielle et Sciences des Données) de l'Université Paris-Dauphine**.
 
