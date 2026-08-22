@@ -4,7 +4,7 @@
 
 ---
 
-Ce dépôt regroupe mon travail pour le cours **Monte Carlo Search** du **Master Exécutif EMIASD (Intelligence Artificielle et Sciences des Données) de l'Université Paris-Dauphine**.
+Ce dépôt regroupe mon travail pour le cours **Monte Carlo Search** du **[Master Exécutif EMIASD](https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees) (Intelligence Artificielle et Sciences des Données) de l'Université Paris-Dauphine \| PSL**.
 
 Le cours couvre les méthodes de recherche par Monte Carlo appliquées à la prise de décision séquentielle et aux jeux : recherche à plat (Flat Monte Carlo), UCB/bandits, MCTS, RAVE/AMAF, Nested Monte Carlo Search (NRPA) et les approches "Zero Learning" (type AlphaZero).
 
